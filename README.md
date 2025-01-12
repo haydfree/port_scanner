@@ -1,4 +1,4 @@
-# port_scanner in 7 langs: \n
+# port_scanner in 7 langs:
 
 python
 javascript
