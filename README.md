@@ -1,9 +1,6 @@
-# port_scanner in 7 langs:
+# port_scanner in 4 langs:
 
 python
-javascript
-go
-java
-haskell
+typescript
 rust
 C
